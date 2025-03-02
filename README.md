@@ -95,17 +95,27 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 ## 📄 Licença
 
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](https://github.com/julianamaula/-7DaysOfCode---L-gica-JS-5-7/blob/main/LICENSE) para mais detalhes.
 
 ---
 
 ## 🙏 Agradecimentos
 
 - Inspirado em necessidades do dia a dia para organizar compras de supermercado.
-- Desenvolvido com ❤️ por Juliana de Maula.
+
 
 ---
 
-Feito com **HTML**, **CSS** e **JavaScript**! 🚀
+<h1 > Feito com 🚀 </h1>   
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)](https://skillicons.dev) 
+
+---
+
+<div  align="center"> 
+<p>Desenvolvido com ❤️ por Juliana de Maula.
+       
+   [![github (1)](https://github.com/user-attachments/assets/b00d055f-82f4-4c97-85e1-986068f5e264)](https://github.com/julianamaula) [![linkedin (2)](https://github.com/user-attachments/assets/044bc6c2-c1e9-4f04-8979-71f95d9f6c66)](https://www.linkedin.com/in/juliana-de-maula/)</p>
+  </div>
 
 
