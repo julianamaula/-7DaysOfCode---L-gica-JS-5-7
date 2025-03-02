@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Lista de Compras</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🛒Lista de Compras</h1>
+        <div class="form-container">
+            <label for="item">Adicionar item:</label>
+            <input type="text" id="item" placeholder="Digite o item">
+            
+            <label for="value">Valor (R$):</label>
+            <input type="number" id="value" placeholder="Digite o valor" step="0.01">
+            
+            <label for="category">Categoria:</label>
+            <select id="category">
+                <option value="frutas">Frutas</option>
+                <option value="laticinios">Laticínios</option>
+                <option value="congelados">Congelados</option>
+                <option value="doces">Doces</option>
+                <option value="outros">Outros</option>
+            </select>
+            
+            <div class="button-container">
+                <button id="add-item">Adicionar</button>
+                <button id="new-list">Nova Lista</button>
+                <button id="show-list">Exibir Lista</button>
+            </div>
+            <p id="message" class="message"></p>
+        </div>
+        
+        <div id="list-container" class="hidden">
+            <h2>Sua Lista de Compras:</h2>
+            <p id="item-count"></p>
+            <ul id="shopping-list"></ul>
+            <p id="total-value"></p>
+        </div>
+
+        <div id="history-container" class="hidden">
+            <h2>Histórico de Compras:</h2>
+            <div id="history-list"></div>
+        </div>
+    </div>
+
+
+
+    <script src="./app.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
